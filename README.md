@@ -1,5 +1,3 @@
-
-___
 <p>
 <h1 align="center">
   <img src="https://github.com/Embronian-IT-Industry/ConstitutialER/blob/master/logo%20(12).png" alt="Эмбронская республика" width=100%>
@@ -26,7 +24,7 @@ ___
   - 
 ___
 
-# Текст конституции Эмбронской республики
+### Текст конституции Эмбронской республики
 
 ___
 
