@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Конституция](README.md)
+* [Конституция](constitutial.md)
 * [Кодекс Парламента](kodex_parlament.md)
 * [NAME](test.md)
 
