@@ -20,6 +20,9 @@
 
 * [Устав ГП](ustav/general_prokyratyra.md)
 * [Устав МВД](ustav/mvd.md)
+* [Устав МЭФ](ustav/min_economy.md)
+* [Устав МинНауки](ustav/min_nayka.md)
+
 
 ## Остальное <a id="ostalnoe-any"></a>
 
