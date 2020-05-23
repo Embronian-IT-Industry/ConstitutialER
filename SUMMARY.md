@@ -18,5 +18,6 @@
 
 ## Уставы <a id="ustav"></a>
 
+* [Устав ГП](ustav/general_prokyratyra.md)
 * [Устав МВД](ustav/mvd.md)
 
