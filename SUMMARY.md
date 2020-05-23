@@ -4,28 +4,28 @@
 
 ## Основной раздел
 
-* [Добро пожаловать!](osnovnoi-razdel/dobro-pozhalovat.md)
-* [Информация](osnovnoi-razdel/osnovnoi-razdel.md)
+* [Добро пожаловать!](main/welcome.md)
+* [Информация](main/info.md)
 
 ## Основные нормативно-правовые акты
 
-* [Конституция](basa/constitutial.md)
+* [Конституция](basa/constitution.md)
 * [Законы](basa/laws.md)
 
 ## Парламент
 
-* [Кодекс Парламента](parlament/code.md)
 * [Регламент Парламента](parlament/regulations.md)
+* [Кодекс Парламента](parlament/code.md)
 
 ## Уставы <a id="ustav"></a>
 
-* [Устав ГП](ustav/general_prokyratyra.md)
-* [Устав МВД](ustav/mvd.md)
-* [Устав МЭФ](ustav/min_economy.md)
-* [Устав МНР](ustav/min_nayka.md)
-* [Устав МИД](ustav/mid.md)
+* [Устав ГП](regulations/general_prokyratyra.md)
+* [Устав МВД](regulations/mvd.md)
+* [Устав МЭФ](regulations/min_economy.md)
+* [Устав МНР](regulations/min_nayka.md)
+* [Устав МИД](regulations/mid.md)
 
 ## Остальное <a id="ostalnoe-any"></a>
 
-* [TEST](ostalnoe-any/test.md)
+* [TEST](other/test.md)
 
