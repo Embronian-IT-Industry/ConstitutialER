@@ -4,3 +4,4 @@
 
 **Главный руководитель -** [**Sepera\_okeq**](https://github.com/Sepera-okeq)
 
+Discord - [Тык](https://discordapp.com/api/guilds/663514742287106068/widget.json)
