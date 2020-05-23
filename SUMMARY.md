@@ -22,6 +22,7 @@
 * [Устав МВД](ustav/mvd.md)
 * [Устав МЭФ](ustav/min_economy.md)
 * [Устав МинНауки](ustav/min_nayka.md)
+* [Устав МИД](ustav/mid.md)
 
 
 ## Остальное <a id="ostalnoe-any"></a>
