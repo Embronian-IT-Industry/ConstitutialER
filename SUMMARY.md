@@ -4,13 +4,13 @@
 
 ## Основной раздел
 
-* [Добро Пожаловать!](osnovnoi-razdel/dobro-pozhalovat.md)
+* [Добро пожаловать!](osnovnoi-razdel/dobro-pozhalovat.md)
 * [Информация](osnovnoi-razdel/osnovnoi-razdel.md)
 
 ## Основные законодательные акты
 
 * [Конституция](osnovnye-zakonodatelnye-akty/constitutial.md)
-* [КФЗ](osnovnye-zakonodatelnye-akty/test.md)
+* [Законодательство](osnovnye-zakonodatelnye-akty/test.md)
 
 ## Парламент
 
@@ -21,7 +21,7 @@
 * [Устав ГП](ustav/general_prokyratyra.md)
 * [Устав МВД](ustav/mvd.md)
 * [Устав МЭФ](ustav/min_economy.md)
-* [Устав МинНауки](ustav/min_nayka.md)
+* [Устав МНР](ustav/min_nayka.md)
 * [Устав МИД](ustav/mid.md)
 
 ## Остальное <a id="ostalnoe-any"></a>
