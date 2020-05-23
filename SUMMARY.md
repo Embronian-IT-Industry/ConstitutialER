@@ -7,7 +7,7 @@
 * [Добро пожаловать!](osnovnoi-razdel/dobro-pozhalovat.md)
 * [Информация](osnovnoi-razdel/osnovnoi-razdel.md)
 
-## Основные законодательные акты
+## Основные нормативно-правовые акты
 
 * [Конституция](osnovnye-zakonodatelnye-akty/constitutial.md)
 * [Законы](osnovnye-zakonodatelnye-akty/test.md)
