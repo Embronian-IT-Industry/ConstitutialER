@@ -2,22 +2,22 @@
 
 * [Навигация по разделам](README.md)
 
-## Основной раздел
+## Основной раздел <a id="main"></a>
 
 * [Добро пожаловать!](main/welcome.md)
 * [Информация](main/info.md)
 
-## Основные нормативно-правовые акты
+## Основные нормативно-правовые акты <a id="basa"></a>
 
 * [Конституция](basa/constitution.md)
 * [Законы](basa/laws.md)
 
-## Парламент
+## Парламент <a id="parlament"></a>
 
 * [Регламент Парламента](parlament/regulations.md)
 * [Кодекс Парламента](parlament/code.md)
 
-## Уставы
+## Уставы <a id="regulations"></a>
 
 * [Устав ГП](regulations/general_prokyratyra.md)
 * [Устав МЭФ](regulations/min_economy.md)
@@ -25,7 +25,7 @@
 * [Устав МНР](regulations/min_nayka.md)
 * [Устав МИД](regulations/mid.md)
 
-## Остальное
+## Остальное <a id="other"></a>
 
 * [TEST](other/test.md)
 
