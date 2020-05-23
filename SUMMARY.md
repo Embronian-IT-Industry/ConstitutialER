@@ -10,11 +10,12 @@
 ## Основные законодательные акты
 
 * [Конституция](osnovnye-zakonodatelnye-akty/constitutial.md)
-* [Законодательство](osnovnye-zakonodatelnye-akty/test.md)
+* [Законы](osnovnye-zakonodatelnye-akty/test.md)
 
 ## Парламент
 
 * [Кодекс Парламента](parlament/kodex_parlament.md)
+* [Регламент Парламента]
 
 ## Уставы <a id="ustav"></a>
 
