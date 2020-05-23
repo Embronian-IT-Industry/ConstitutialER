@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [README](README.md)
 
 ## Основной раздел
 
 * [Добро Пожаловать!](osnovnoi-razdel/dobro-pozhalovat.md)
-* [Информация](osnovnoi-razdel/readme.md)
+* [Информация](osnovnoi-razdel/osnovnoi-razdel.md)
 
 ## Основные законодательные акты
 
