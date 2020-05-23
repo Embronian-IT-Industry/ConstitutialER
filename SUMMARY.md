@@ -23,5 +23,5 @@
 
 ## Остальное <a id="ostalnoe-any"></a>
 
-* [TEST](test.md)
+* [TEST](ostalnoe-any/test.md)
 
