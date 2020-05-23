@@ -17,15 +17,15 @@
 * [Регламент Парламента](parlament/regulations.md)
 * [Кодекс Парламента](parlament/code.md)
 
-## Уставы <a id="ustav"></a>
+## Уставы
 
 * [Устав ГП](regulations/general_prokyratyra.md)
-* [Устав МВД](regulations/mvd.md)
 * [Устав МЭФ](regulations/min_economy.md)
+* [Устав МВД](regulations/mvd.md)
 * [Устав МНР](regulations/min_nayka.md)
 * [Устав МИД](regulations/mid.md)
 
-## Остальное <a id="ostalnoe-any"></a>
+## Остальное
 
 * [TEST](other/test.md)
 
