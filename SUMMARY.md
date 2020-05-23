@@ -14,8 +14,8 @@
 
 ## Парламент
 
-* [Кодекс Парламента](parlament/kodex_parlament.md)
-* [Регламент Парламента]
+* [Кодекс Парламента](parlament/code.md)
+* [Регламент Парламента](parlament/regulations.md)
 
 ## Уставы <a id="ustav"></a>
 
