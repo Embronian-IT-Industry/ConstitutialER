@@ -1,20 +1,22 @@
 # Table of contents
+
+* [Introduction](README.md)
+
 ## Основной раздел
-* [Добро Пожаловать!]()
-* [Информация](README.md)
+
+* [Добро Пожаловать!](osnovnoi-razdel/dobro-pozhalovat.md)
+* [Информация](osnovnoi-razdel/readme.md)
 
 ## Основные законодательные акты
 
-* [Конституция](constitutial.md)
-* [NAME](test.md)
+* [Конституция](osnovnye-zakonodatelnye-akty/constitutial.md)
+* [КФЗ](osnovnye-zakonodatelnye-akty/test.md)
 
+## Парламент
 
-## Парламент <a id="parlament"></a>
-
-* [Кодекс Парламента](kodex_parlament.md)
-
-
+* [Кодекс Парламента](parlament/kodex_parlament.md)
 
 ## Уставы <a id="ustav"></a>
 
 * [Устав МВД](ustav/mvd.md)
+
