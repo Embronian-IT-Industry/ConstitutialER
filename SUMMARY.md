@@ -9,8 +9,8 @@
 
 ## Основные нормативно-правовые акты
 
-* [Конституция](osnovnye-zakonodatelnye-akty/constitutial.md)
-* [Законы](osnovnye-zakonodatelnye-akty/test.md)
+* [Конституция](basa/constitutial.md)
+* [Законы](basa/laws.md)
 
 ## Парламент
 
