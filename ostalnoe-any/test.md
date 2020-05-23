@@ -2,6 +2,7 @@
 
 Some Markdown text with some _blue_ text.
 
-gfsgdgsdg 
+gfsgdgsdg
 
-<span style="color:red">some *This is Blue italic.* text</span>
+some _This is Blue italic._ text
+
