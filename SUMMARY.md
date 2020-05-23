@@ -1,7 +1,4 @@
 # Table of contents
-
-* [README](README.md)
-
 ## Основной раздел
 
 * [Добро Пожаловать!](osnovnoi-razdel/dobro-pozhalovat.md)
@@ -20,3 +17,4 @@
 
 * [Устав МВД](ustav/mvd.md)
 
+## Остальное 
