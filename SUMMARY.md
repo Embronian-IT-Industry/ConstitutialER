@@ -19,11 +19,17 @@
 
 ## Уставы <a id="regulations"></a>
 
-* [Устав ГП](regulations/general_prokyratyra.md)
-* [Устав МЭФ](regulations/min_economy.md)
-* [Устав МВД](regulations/mvd.md)
-* [Устав МНР](regulations/min_nayka.md)
-* [Устав МИД](regulations/mid.md)
+* [Устав Генеральной прокуратуры](regulations/general_prokyratyra.md)
+* [Устав Министерства юстиции](regulations/justice.md)
+* [Устав Министерства экономики и финансов](regulations/min_economy.md)
+* [Устав Министерства внутренних дел](regulations/mvd.md)
+* [Устав Министерства иностранных дел](regulations/mid.md)
+* [Устав Министерства обороны]
+* [Устав Министерства интернета и безопастности]
+* [Устав Министерства культуры]
+* [Устав Министерства научного развития](regulations/min_nayka.md)
+* [Устав Министерства образования]
+
 
 ## Остальное <a id="other"></a>
 
