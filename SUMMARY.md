@@ -14,10 +14,17 @@
 
 ## Парламент <a id="parlament"></a>
 
-* [Регламент Парламента](parlament/regulations.md)
-* [Кодекс Парламента](parlament/code.md)
+* [Регламент](parlament/regulations.md)
+* [Кодекс](parlament/code.md)
+* [Решения Парламента](parlament/decree.md)
 
-## Уставы <a id="regulations"></a>
+## Суд <a id="court"></a>
+
+* [Устав Суда](court/regulations.md)
+* [Постановления](court/decree.md)
+* [Разъяснения](court/explanation.md)
+
+## Министерства <a id="regulations"></a>
 
 * [Устав Генеральной прокуратуры](regulations/general_prokyratyra.md)
 * [Устав Министерства юстиции](regulations/justice.md)
