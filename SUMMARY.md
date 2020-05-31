@@ -26,16 +26,16 @@
 
 ## Министерства <a id="regulations"></a>
 
-* [Устав Генеральной прокуратуры](regulations/general_prokyratyra.md)
+* [Устав Генеральной прокуратуры](regulations/law.md)
 * [Устав Министерства юстиции](regulations/justice.md)
-* [Устав Министерства экономики и финансов](regulations/min_economy.md)
+* [Устав Министерства экономики и финансов](regulations/economy.md)
 * [Устав Министерства внутренних дел](regulations/mvd.md)
 * [Устав Министерства иностранных дел](regulations/mid.md)
 * [Устав Министерства обороны]
 * [Устав Министерства интернета и безопастности]
 * [Устав Министерства культуры](regulations/culture.md)
-* [Устав Министерства научного развития](regulations/min_nayka.md)
-* [Устав Министерства образования]
+* [Устав Министерства научного развития](regulations/science.md)
+* [Устав Министерства образования](regulations/education.md)
 
 
 ## Остальное <a id="other"></a>
