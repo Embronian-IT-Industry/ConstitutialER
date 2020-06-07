@@ -40,6 +40,6 @@
 
 ## Остальное <a id="other"></a>
 
-* [TEST](other/test.md)
+* [Правила оформления](other/test.html)
 * [TEST2]()
 
