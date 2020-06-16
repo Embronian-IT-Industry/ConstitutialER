@@ -40,6 +40,6 @@
 
 ## Остальное <a id="other"></a>
 
-* [Правила оформления](other/test.html)
+* [Правила оформления документов - стандарт файлов Markdown](other/Markdown-docs.md)
 * [TEST2]()
 
