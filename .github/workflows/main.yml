@@ -1,0 +1,24 @@
+name: Discord Update Message
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # обновление поста в 
+      - name: Discord Post Updater
+        uses: hreeder/discord-post-updater@v1.1.0
+        with:
+            discord_token: ${{ secrets.discord_bot_token }}
+            post_file: basa/constitution.md
+            discord_channel: '811676868163272754' # N.B. The quote marks here are required
+           # discord_message: new # Optional, use quotes if specifying an ID
+
